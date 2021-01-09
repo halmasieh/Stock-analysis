@@ -17,7 +17,7 @@ In addition, the role and importance of using nested <mark>for</mark> loops caus
 excecution time. By comparing the elapsed run time related to all stocks 2017 and 2018 in the Figures 1 and 2 as well as Figures 3 and 4 
 as follows:
 
-![Figure 1-2](/Resourses/Figures 1-2.PNG) 
+![Figure 1-2](https://github.com/halmasieh/stock-analysis-/blob/main/Resources/Figures%201-2.png) 
 ![Figure 3-4](/Resourses/Figures 3-4.PNG)
 
 These temporal changes are quite noticeable when we want to do the analysis for large number of stocks. 
