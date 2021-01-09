@@ -20,8 +20,7 @@ The code used in this analysis is baesd on the access of data in an array, there
 
 we will exceute the same analysis for each element in the array. In addition, the role and importance of using nested <mark>for</mark> loops causes a significient reduction in computational volume and ultimately code excecution time. 
 
-Compare the elapsed run time related to all stocks 2017 and 2018 in the Figures 1-2 and Figures 3-4, respectively as follows 
-as follows:
+Compare the elapsed run time related to all stocks 2017 and 2018 in the Figures 1-2 and Figures 3-4, respectively as follows:
 
 ![Figure 1-2](https://github.com/halmasieh/stock-analysis-/blob/main/Resources/Figures%201-2.png) 
 ![Figure 3-4](https://github.com/halmasieh/stock-analysis-/blob/main/Resources/Figure%203-4.png)
