@@ -1,10 +1,12 @@
 # Stock-Analysis
 
 ## Overview of Project
-Refactoring and creating a program flow that loops through all the data on time in order to collect the same information that we did in the Mohule 2.
+Refactoring and creating a program flow that loops through all the data on time in order to collect the same information that we did in the Module 2.
 In fact, instead of repeating the analysis code of one stock over and over, changing the bits that are stock-specific and using a list of 
 tickers in a <mark>for</mark> Loop, we created three output arrays for volumes, StartingPrices and EndingPrices all in a nested <mark>for</mark> loop to make the code 
 more efficient-by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
+
+### Purpose
 
 
 ## Results
