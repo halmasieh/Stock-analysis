@@ -38,6 +38,7 @@ However, you definitely do not perform refactoring tasks, if it exceeds your bud
 
 
 2- How do these pros and cons apply to refactoring the original VBA script?
+
 The cost of refactoring is higher than rewriting the code from scratch. 
 We should not refactor the code if we don't have the time to test the refactored code before release, delivery deadline is near 
 and new development is planned. 
