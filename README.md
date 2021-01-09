@@ -11,8 +11,8 @@ more efficient-by taking fewer steps, using less memory, or improving the logic 
 The code used in this analysis is baesd on the access of data in an array, therefore by defining variables in the form of an array as follows,
 
 ![click](https://github.com/halmasieh/stock-analysis-/blob/main/Resources/Variables%20as%20Array.PNG) 
+we will exceute the same analysis for each element in the array. 
 
-we will exceute the same analysis for each element in the array.  
 In addition, the role and importance of using nested <mark>for</mark> loops causes a significient reduction in computational volume and ultimately code 
 excecution time. By comparing the elapsed run time related to all stocks 2017 and 2018 in the Figures 1 and 2 as well as Figures 3 and 4 
 as follows:
