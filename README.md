@@ -7,6 +7,10 @@ tickers in a <mark>for</mark> Loop, we created three output arrays for volumes, 
 more efficient-by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
 ### Purpose
+In a large financial investment with high value, one of the most basic is to make good use of time in golden oppurtunities. Thus in ths way, nothing will be
+as effective as a planned goal by observing the time option. 
+In this regard, refactoring of existing codes can be a working solution to achieve a short-term ecconomic goal. Of course other factors such as proper program design, 
+comprehensibility and finacial resources will also be effective.
 
 
 ## Results
