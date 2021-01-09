@@ -7,7 +7,7 @@ tickers in a <mark>for</mark> Loop, we created three output arrays for volumes, 
 more efficient-by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
 
-### Results
+## Results
 The code used in this analysis is baesd on the access of data in an array, therefore by defining variables in the form of an array as follows,
 
 ![click](/Resourses/Variables as Array.PNG) 
@@ -23,12 +23,12 @@ as follows:
 These temporal changes are quite noticeable when we want to do the analysis for large number of stocks. 
      
 
-### Summary
+## Summary
 
 1- What are the advantages or disadvantages of refactoring code?
 Refactoring is a disciplined technique for restructuring existing code, altering its internal structure without changing its external behavior.
 Although refactoring does not add features or functionalities in a code, it is sharp weapon for developers in their maintenance activity.
-The purpose of refactoring according to Martin Fowler [Martin_Fowler] (https://martinfowler.com/)(Father of Code Smell) are stated in the following     
+The purpose of refactoring according to Martin Fowler [Martin_Fowler] (https://martinfowler.com/) (Father of Code Smell) are stated in the following     
 * Refactoring improves the design of code
 * Refactoring makes the code easier to understand
 * Refactoring helps programming faster
