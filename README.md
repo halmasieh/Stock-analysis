@@ -18,7 +18,7 @@ excecution time. By comparing the elapsed run time related to all stocks 2017 an
 as follows:
 
 ![Figure 1-2](https://github.com/halmasieh/stock-analysis-/blob/main/Resources/Figures%201-2.png) 
-![Figure 3-4](/Resourses/Figures 3-4.PNG)
+![Figure 3-4](https://github.com/halmasieh/stock-analysis-/blob/main/Resources/Figure%203-4.png)
 
 These temporal changes are quite noticeable when we want to do the analysis for large number of stocks. 
      
