@@ -34,12 +34,13 @@ These temporal changes are quite noticeable when we want to do the analysis for 
 
 Refactoring is a disciplined technique for restructuring existing code, altering its internal structure without changing its external behavior.
 Although refactoring does not add features or functionalities in a code, it is sharp weapon for developers in their maintenance activity.
-The purpose of refactoring according to [Martin_Fowler](https://martinfowler.com/) (Father of Code Smell) are stated in the following     
+The advantages of refactoring according to [Martin_Fowler](https://martinfowler.com/) (Father of Code Smell) are stated in the following     
 * Refactoring improves the design of code
 * Refactoring makes the code easier to understand
 * Refactoring helps programming faster
 * Refactoring helps finding bugs
-Specially for long-term scripts. It is essential to refactor the code in order to make it more adaptive. 
+Specially for long-term scripts. It is essential to refactor the code in order to make it more adaptive.
+
 However, you definitely do not perform refactoring tasks, if it exceeds your budget and time. In essence, stop refactoring when we-
 * Run out of money
 * Run out of time
