@@ -28,7 +28,7 @@ These temporal changes are quite noticeable when we want to do the analysis for 
 1- What are the advantages or disadvantages of refactoring code?
 Refactoring is a disciplined technique for restructuring existing code, altering its internal structure without changing its external behavior.
 Although refactoring does not add features or functionalities in a code, it is sharp weapon for developers in their maintenance activity.
-The purpose of refactoring according to Martin Fowler [Martin_Fowler](https://martinfowler.com/)(Father of Code Smell) are stated in the following     
+The purpose of refactoring according to Martin Fowler [Martin_Fowler] (https://martinfowler.com/)(Father of Code Smell) are stated in the following     
 * Refactoring improves the design of code
 * Refactoring makes the code easier to understand
 * Refactoring helps programming faster
@@ -50,6 +50,3 @@ There should be no delay in refactoring because it contains a big mess and makes
 
 
 
-/or graphs that we could create?
-• Use measures of central tendency for each set of failed or successful campaigns based on funding goals
-• Make the same table/graph of outcomes based on either goals or pledged by filtering outcomes based on other subcategories or any other column that makes sense.   
