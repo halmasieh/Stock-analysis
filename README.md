@@ -3,7 +3,7 @@
 ## Overview of Project
 Refactoring and creating a program flow that loops through all the data on time in order to collect the same information that we did in the Module 2.
 In fact, instead of repeating the analysis code of one stock over and over, changing the bits that are stock-specific and using a list of 
-tickers in a <mark>for</mark> Loop, we created three output arrays for volumes, StartingPrices and EndingPrices all in a nested <mark>for</mark> loop to make the code 
+tickers in a **for** Loop, we created three output arrays for volumes, StartingPrices and EndingPrices all in a nested **for** loop to make the code 
 more efficient-by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
 ### Purpose
@@ -18,7 +18,7 @@ The code used in this analysis is baesd on the access of data in an array, there
 
 ![click](https://github.com/halmasieh/stock-analysis-/blob/main/Resources/Variables%20as%20Array.PNG) 
 
-we will exceute the same analysis for each element in the array. In addition, the role and importance of using nested <mark>for</mark> loops causes a significient reduction in computational volume and ultimately code excecution time. 
+we will exceute the same analysis for each element in the array. In addition, the role and importance of using nested **for** loops causes a significient reduction in computational volume and ultimately code excecution time. 
 
 Compare the elapsed run time related to all stocks 2017 and 2018 in the Figures 1-2 and Figures 3-4, respectively as follows:
 
