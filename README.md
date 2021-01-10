@@ -14,7 +14,7 @@ comprehensibility and finacial resources will also be effective.
 
 
 ## Results
-The code used in this analysis is baesd on the access of data in an array, therefore by defining variables in the form of an array as follows,
+The code used in this analysis is baesd on the access of data in an array, therefore by initializing variables in the form of an array as follows,
 
 ![click](https://github.com/halmasieh/stock-analysis-/blob/main/Resources/Variables%20as%20Array.PNG) 
 
